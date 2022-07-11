@@ -1,0 +1,10 @@
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.Properties.Resources.resources
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.csproj.GenerateResource.cache
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\bin\Debug\Cliente_ServidorSoquet.exe.config
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\bin\Debug\Cliente_ServidorSoquet.exe
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\bin\Debug\Cliente_ServidorSoquet.pdb
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.exe
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.pdb
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.frmPrincipal.resources
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.frmFuncoes.resources
+C:\Users\Higor\source\repos\Cliente_ServidorSoquet\Cliente_ServidorSoquet\obj\Debug\Cliente_ServidorSoquet.csprojAssemblyReference.cache
